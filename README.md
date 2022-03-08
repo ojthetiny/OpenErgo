@@ -1,8 +1,7 @@
 # OpenErgo
  Open Source Alice Keyboard
 
- IMG
-
+![Alt text](Render/OpenErgo.png?raw=true)
 
  Use as a base for your own designs, renders or order as is (read important info at the bottom).
 
